@@ -14,7 +14,7 @@
 [🔗 LinkedIn](https://www.linkedin.com/in/antonino-sartori/)   |
 [🐦 Twitter](https://twitter.com/AntoninoS27)  
 
- 🛠 Stack
+ ## 🛠 Stack
 
 | Front  | Back  | Control |
 | - | - | - |
