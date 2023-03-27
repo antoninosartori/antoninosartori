@@ -24,4 +24,3 @@
 | ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)| ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB) |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) | |
 | ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)| |
-|  
